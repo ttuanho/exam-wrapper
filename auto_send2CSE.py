@@ -95,7 +95,7 @@ def pull_logs_back2Local():
     
 # This func is not needed if running another process on cse
 def submit_subshell():
-    sh(f"ssh -Y {zid}@cse.unsw.edu.au 'cd {examFolder}' && python3 auto_submit.py && logout")
+    sh(f"ssh -Y {zid}@cse.unsw.edu.au 'cd {examFolder}' && python3 auto_submit.py")
 
 def timer():
     while (True):
