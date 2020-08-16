@@ -1,4 +1,22 @@
 Session: 20T2
+File part2Q1A.txt must not be empty.
+Submission NOT accepted
+Session: 20T2
+File part2Q1B.txt must not be empty.
+Submission NOT accepted
+Session: 20T2
+File part2Q1C.txt must not be empty.
+Submission NOT accepted
+Session: 20T2
+File part2Q2A.txt must not be empty.
+Submission NOT accepted
+Session: 20T2
+File part2Q2B.txt must not be empty.
+Submission NOT accepted
+Session: 20T2
+File part2Q2C.txt must not be empty.
+Submission NOT accepted
+Session: 20T2
 
 Submission: part2Q3
 ------------------------------
@@ -7,6 +25,6 @@ Files not accepted: Car.java
 ------------------------------
 
 
-Submission datestamp:	Sat Aug 15 09:39:00 2020
+Submission datestamp:	Sun Aug 16 21:46:44 2020
 No deadline set at present.
 Your submission is ACCEPTED.

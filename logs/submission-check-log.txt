@@ -2,7 +2,7 @@ Session: 20T2
 Assignment: part2Q1A  Submission ID: 5261243
 
 
-Current day and time:	Sat Aug 15 09:39:00 2020
+Current day and time:	Sun Aug 16 21:46:45 2020
 No deadline set at present.
 Event           Day and time              Details
 ================================================================================
@@ -25,7 +25,7 @@ Session: 20T2
 Assignment: part2Q1B  Submission ID: 5261243
 
 
-Current day and time:	Sat Aug 15 09:39:01 2020
+Current day and time:	Sun Aug 16 21:46:46 2020
 No deadline set at present.
 Event           Day and time              Details
 ================================================================================
@@ -38,7 +38,7 @@ Session: 20T2
 Assignment: part2Q1C  Submission ID: 5261243
 
 
-Current day and time:	Sat Aug 15 09:39:02 2020
+Current day and time:	Sun Aug 16 21:46:46 2020
 No deadline set at present.
 Event           Day and time              Details
 ================================================================================
@@ -60,3 +60,170 @@ Submission      Sat Aug 15 09:38:22 2020  5261243 all part2Q1C [on time]
 
 Most recent submission:
 -rw-r--r-- z5261243/z5261243 6 2020-08-15 09:38 part2Q1C.txt
+Session: 20T2
+Assignment: part2Q2A  Submission ID: 5261243
+
+
+Current day and time:	Sun Aug 16 21:46:47 2020
+No deadline set at present.
+Event           Day and time              Details
+================================================================================
+Submission      Sat Aug 15 09:23:51 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:24:39 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:25:20 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:27:16 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:27:23 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:29:33 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:29:40 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:35:02 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:35:43 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:36:22 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:36:59 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:37:42 2020  5261243 all part2Q2A [on time]
+Submission      Sat Aug 15 09:38:23 2020  5261243 all part2Q2A [on time]
+
+Most recent submission:
+-rw-r--r-- z5261243/z5261243 31 2020-08-15 09:38 part2Q2A.txt
+Session: 20T2
+Assignment: part2Q2B  Submission ID: 5261243
+
+classrun: no log file for assignment part2Q2B: no submission recorded
+  login: z5261243
+  stuID: 5261243
+  class: cs2511
+last system error: No such file or directory
+
+Current day and time:	Sun Aug 16 21:46:47 2020
+No deadline set at present.
+Session: 20T2
+Assignment: part2Q2C  Submission ID: 5261243
+
+
+Current day and time:	Sun Aug 16 21:46:48 2020
+No deadline set at present.
+Event           Day and time              Details
+================================================================================
+Submission      Sat Aug 15 09:23:52 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:24:40 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:25:21 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:27:17 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:27:24 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:29:34 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:29:41 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:35:03 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:35:44 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:36:23 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:37:00 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:37:43 2020  5261243 all part2Q2C [on time]
+Submission      Sat Aug 15 09:38:24 2020  5261243 all part2Q2C [on time]
+
+Most recent submission:
+-rw-r--r-- z5261243/z5261243 29 2020-08-15 09:38 part2Q2C.txt
+Session: 20T2
+Assignment: part2Q3  Submission ID: 5261243
+
+
+Current day and time:	Sun Aug 16 21:46:48 2020
+No deadline set at present.
+Event           Day and time              Details
+================================================================================
+Submission      Sat Aug 15 09:11:31 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:16:22 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:23:53 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:24:02 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:24:12 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:24:22 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:24:31 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:24:41 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:24:51 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:25:00 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:25:06 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:25:15 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:25:22 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:25:27 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:27:18 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:27:24 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:29:35 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:29:42 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:29:49 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:29:56 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:30:03 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:03 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:08 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:12 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:17 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:21 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:27 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:32 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:36 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:44 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:48 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:53 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:35:57 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:02 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:07 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:11 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:16 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:23 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:27 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:32 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:37 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:41 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:46 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:50 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:36:54 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:00 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:05 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:10 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:14 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:19 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:23 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:29 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:35 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:44 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:50 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:37:56 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:38:02 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:38:08 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:38:15 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:38:25 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:38:31 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:38:37 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:38:43 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:38:48 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:38:54 2020  5261243 all part2Q3 [on time]
+Submission      Sat Aug 15 09:39:00 2020  5261243 all part2Q3 [on time]
+Submission      Sun Aug 16 21:46:44 2020  5261243 all part2Q3 [on time]
+
+Most recent submission:
+-rw------- z5261243/z5261243 82 2020-08-16 21:46 CarComparator.java
+Session: 20T2
+Assignment: part3Q1  Submission ID: 5261243
+
+classrun: no record of any submission for this assignment part3Q1
+  login: z5261243
+  stuID: 5261243
+  class: cs2511
+
+Current day and time:	Sun Aug 16 21:46:49 2020
+No deadline set at present.
+Session: 20T2
+Assignment: part3Q2  Submission ID: 5261243
+
+classrun: no record of any submission for this assignment part3Q2
+  login: z5261243
+  stuID: 5261243
+  class: cs2511
+
+Current day and time:	Sun Aug 16 21:46:49 2020
+No deadline set at present.
+Session: 20T2
+Assignment: part3Q3  Submission ID: 5261243
+
+classrun: no record of any submission for this assignment part3Q3
+  login: z5261243
+  stuID: 5261243
+  class: cs2511
+
+Current day and time:	Sun Aug 16 21:46:50 2020
+No deadline set at present.
