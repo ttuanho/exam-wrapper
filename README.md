@@ -2,7 +2,7 @@
 
 Since all exams have been moved to online and Vlab interface may seems not to be a good friend, this repo is created to publish the scripts that then will make the submssion of the answer files automatically and periodically to UNSW CSE servers.
 
-In additions, the scripts also wrap around git to record the version over time.
+In additions, the scripts also wrap around git to record different versions over time.
 
 ## Introduction to CSE submission system / commands 
 
@@ -34,8 +34,14 @@ A few critical to make these submission scripts work:
 
 ## Critical things to do before the exam
 
-1. Check if the all the configurations are correct. This include:
+1. Check if the all the configurations in [auto_send2CSE.py](auto_send2CSE.py) are correct. This include:
+    - `zid`
+    - `className`
+    - folder name on the (CSE) remote server exists (variable `examFolder`)
+    - repo url (variable `remote_repo_url`)
+    - `questions` with correct name and format type: `False` if it is short answer which is submitted as an text file. `True` if using java source code.
+    - timer interval to submit periodically (variable `submitInterval`)
+    - the deadline to stop making submission (variable `deadline`)
 2. Locally, run `python3 auto_send2CSE.py`. This will periodically send your answer files to CSE servers.
-3. On CSE server and in the exam folder, run `python3 auto_submit.py`. This will periodically make the submission for you.
-4. Focus on the exam itself & nail it!
+3. Focus on the exam itself & nail it!
 
