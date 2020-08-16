@@ -48,7 +48,7 @@ submitInterval = 8
 
 # the end time to submit
 # Attributes: year, month, day, hour, minute, second, microsecond
-deadline = datetime(2020,8,16,21,49,59).timestamp()
+deadline = datetime(2020,8,16,22,49,59).timestamp()
 lastSubmitTime = None
 lastSendTime = None
 
@@ -56,7 +56,7 @@ def createFiles():
     for d, f in questions.items():
         if (os.path.exists(f"./answers/{d}") == False):
             sh(f"mkdir ./answers/{d}")
-        if (f == False):
+        if (f == False or os.path.exists(f"./answers/{d}/{d}.txt") == False):
             sh(f"touch answers/{d}/{d}.txt")
     
     sh(f"touch {git_log_str}")
