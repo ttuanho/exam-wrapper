@@ -57,7 +57,8 @@ def createFiles():
         if (os.path.exists(f"./answers/{d}") == False):
             sh(f"mkdir ./answers/{d}")
         if (f == False and os.path.exists(f"./answers/{d}/{d}.txt") == False):
-            sh(f"touch answers/{d}/{d}.txt")
+            # sh(f"touch answers/{d}/{d}.txt")
+            sh(f"echo Hello > answers/{d}/{d}.txt")
     
     sh(f"touch {git_log_str}")
     sh(f"touch {submit_log_str}")
@@ -95,7 +96,7 @@ def pull_logs_back2Local():
     
 # This func is not needed if running another process on cse
 def submit_subshell():
-    sh(f"ssh -Y {zid}@cse.unsw.edu.au 'cd {examFolder}' && python3 auto_submit.py && logout")
+    sh(f"ssh -Y {zid}@cse.unsw.edu.au 'cd {examFolder} && python3 auto_submit.py && logout'")
 
 def timer():
     while (True):
