@@ -58,7 +58,7 @@ def createFiles():
             sh(f"mkdir ./answers/{d}")
         if (f == False and os.path.exists(f"./answers/{d}/{d}.txt") == False):
             # sh(f"touch answers/{d}/{d}.txt")
-            sh(f"echo \"`date`\" > answers/{d}/{d}.txt")
+            sh(f"echo \"Created on `date`\" > answers/{d}/{d}.txt")
     
     sh(f"touch {git_log_str}")
     sh(f"touch {submit_log_str}")
