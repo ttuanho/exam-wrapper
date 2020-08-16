@@ -1,21 +1,79 @@
 Session: 20T2
-File part2Q1A.txt must not be empty.
+
+Submission: part2Q1A
+------------------------------
+Files found: part2Q1A.txt
+------------------------------
+
+
+Submission datestamp:	Sun Aug 16 21:56:01 2020
+No deadline set at present.
+Your submission is ACCEPTED.
+Session: 20T2
+
+Submission: part2Q1B
+------------------------------
+Files found: part2Q1B.txt
+------------------------------
+
+
+Submission datestamp:	Sun Aug 16 21:56:01 2020
+No deadline set at present.
+Your submission is ACCEPTED.
+Session: 20T2
+
+Submission: part2Q1C
+------------------------------
+Files found: part2Q1C.txt
+------------------------------
+
+
+Submission datestamp:	Sun Aug 16 21:56:02 2020
+No deadline set at present.
+Your submission is ACCEPTED.
+Session: 20T2
+
+Submission: part2Q2A
+------------------------------
+Files found: part2Q2A.txt
+------------------------------
+
+
+Submission datestamp:	Sun Aug 16 21:56:04 2020
+No deadline set at present.
+Your submission is ACCEPTED.
+Session: 20T2
+
+Submission: part2Q2B
+------------------------------
+No submission, all accept groups fail
+------------------------------
+
+SUBMISSION ERROR:
+Either you have not supplied all the required files or the files are not named correctly
+
+Interpretation: part2Q2B
+------------------------------
+Accept any files matching part2Q1B.txt
+------------------------------
+
+Files supplied: part2Q2B
+------------------------------
+part2Q2B.txt
+------------------------------
+
 Submission NOT accepted
 Session: 20T2
-File part2Q1B.txt must not be empty.
-Submission NOT accepted
-Session: 20T2
-File part2Q1C.txt must not be empty.
-Submission NOT accepted
-Session: 20T2
-File part2Q2A.txt must not be empty.
-Submission NOT accepted
-Session: 20T2
-File part2Q2B.txt must not be empty.
-Submission NOT accepted
-Session: 20T2
-File part2Q2C.txt must not be empty.
-Submission NOT accepted
+
+Submission: part2Q2C
+------------------------------
+Files found: part2Q2C.txt
+------------------------------
+
+
+Submission datestamp:	Sun Aug 16 21:56:04 2020
+No deadline set at present.
+Your submission is ACCEPTED.
 Session: 20T2
 
 Submission: part2Q3
@@ -25,6 +83,6 @@ Files not accepted: Car.java
 ------------------------------
 
 
-Submission datestamp:	Sun Aug 16 21:46:44 2020
+Submission datestamp:	Sun Aug 16 21:56:05 2020
 No deadline set at present.
 Your submission is ACCEPTED.
