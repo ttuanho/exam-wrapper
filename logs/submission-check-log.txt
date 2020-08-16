@@ -1,0 +1,62 @@
+Session: 20T2
+Assignment: part2Q1A  Submission ID: 5261243
+
+
+Current day and time:	Sat Aug 15 09:39:00 2020
+No deadline set at present.
+Event           Day and time              Details
+================================================================================
+Submission      Sat Aug 15 09:23:49 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:24:37 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:25:19 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:27:15 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:29:32 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:29:39 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:35:00 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:35:41 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:36:20 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:36:58 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:37:40 2020  5261243 all part2Q1A [on time]
+Submission      Sat Aug 15 09:38:21 2020  5261243 all part2Q1A [on time]
+
+Most recent submission:
+-rw-r--r-- z5261243/z5261243 8 2020-08-15 09:38 part2Q1A.txt
+Session: 20T2
+Assignment: part2Q1B  Submission ID: 5261243
+
+
+Current day and time:	Sat Aug 15 09:39:01 2020
+No deadline set at present.
+Event           Day and time              Details
+================================================================================
+Submission      Sat Aug 15 09:37:41 2020  5261243 all part2Q1B [on time]
+Submission      Sat Aug 15 09:38:22 2020  5261243 all part2Q1B [on time]
+
+Most recent submission:
+-rw-r--r-- z5261243/z5261243 17 2020-08-15 09:38 part2Q1B.txt
+Session: 20T2
+Assignment: part2Q1C  Submission ID: 5261243
+
+
+Current day and time:	Sat Aug 15 09:39:02 2020
+No deadline set at present.
+Event           Day and time              Details
+================================================================================
+Submission      Sat Aug 15 09:05:28 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:06:35 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:11:29 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:23:50 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:24:39 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:25:20 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:27:16 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:29:33 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:29:40 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:35:01 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:35:42 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:36:21 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:36:59 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:37:41 2020  5261243 all part2Q1C [on time]
+Submission      Sat Aug 15 09:38:22 2020  5261243 all part2Q1C [on time]
+
+Most recent submission:
+-rw-r--r-- z5261243/z5261243 6 2020-08-15 09:38 part2Q1C.txt

@@ -1,0 +1,12 @@
+Session: 20T2
+
+Submission: part2Q3
+------------------------------
+Files found: CarComparator.java
+Files not accepted: Car.java
+------------------------------
+
+
+Submission datestamp:	Sat Aug 15 09:39:00 2020
+No deadline set at present.
+Your submission is ACCEPTED.

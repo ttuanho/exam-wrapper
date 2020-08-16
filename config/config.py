@@ -1,0 +1,5 @@
+submit_log_str = "logs/submit-log.txt"
+check_log_file_str = "logs/submission-check-log.txt"
+sending_py_file_str = "logs/local-log-4-sending-python-files.txt"
+sending_ans_files_str = "logs/local-log-4-sending-answers-files.txt"
+git_log_str = "logs/git-log.txt"
