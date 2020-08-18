@@ -6,7 +6,7 @@ In additions, the scripts also wrap around git to record different versions over
 
 ## Introduction to CSE submission system / commands 
 
-
+*To be written but the full docs can be found [here](https://wiki.cse.unsw.edu.au/give/Home)*.
 
 ## License
 

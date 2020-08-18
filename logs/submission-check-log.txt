@@ -2,7 +2,7 @@ Session: 20T2
 Assignment: part2Q1A  Submission ID: 5261243
 
 
-Current day and time:	Sun Aug 16 22:22:11 2020
+Current day and time:	Sun Aug 16 22:22:40 2020
 No deadline set at present.
 Event           Day and time              Details
 ================================================================================
@@ -29,6 +29,7 @@ Submission      Sun Aug 16 22:09:26 2020  5261243 all part2Q1A [on time]
 Submission      Sun Aug 16 22:10:10 2020  5261243 all part2Q1A [on time]
 Submission      Sun Aug 16 22:10:37 2020  5261243 all part2Q1A [on time]
 Submission      Sun Aug 16 22:22:08 2020  5261243 all part2Q1A [on time]
+Submission      Sun Aug 16 22:22:36 2020  5261243 all part2Q1A [on time]
 
 Most recent submission:
 -rw-r--r-- z5261243/z5261243 30 2020-08-16 22:22 part2Q1A.txt
@@ -36,7 +37,7 @@ Session: 20T2
 Assignment: part2Q1B  Submission ID: 5261243
 
 
-Current day and time:	Sun Aug 16 22:22:11 2020
+Current day and time:	Sun Aug 16 22:22:40 2020
 No deadline set at present.
 Event           Day and time              Details
 ================================================================================
@@ -53,14 +54,15 @@ Submission      Sun Aug 16 22:09:27 2020  5261243 all part2Q1B [on time]
 Submission      Sun Aug 16 22:10:10 2020  5261243 all part2Q1B [on time]
 Submission      Sun Aug 16 22:10:38 2020  5261243 all part2Q1B [on time]
 Submission      Sun Aug 16 22:22:08 2020  5261243 all part2Q1B [on time]
+Submission      Sun Aug 16 22:22:37 2020  5261243 all part2Q1B [on time]
 
 Most recent submission:
--rw-r--r-- z5261243/z5261243 30 2020-08-16 22:22 part2Q1B.txt
+-rw-r--r-- z5261243/z5261243 69 2020-08-16 22:22 part2Q1B.txt
 Session: 20T2
 Assignment: part2Q1C  Submission ID: 5261243
 
 
-Current day and time:	Sun Aug 16 22:22:12 2020
+Current day and time:	Sun Aug 16 22:22:41 2020
 No deadline set at present.
 Event           Day and time              Details
 ================================================================================
@@ -90,6 +92,7 @@ Submission      Sun Aug 16 22:09:27 2020  5261243 all part2Q1C [on time]
 Submission      Sun Aug 16 22:10:11 2020  5261243 all part2Q1C [on time]
 Submission      Sun Aug 16 22:10:38 2020  5261243 all part2Q1C [on time]
 Submission      Sun Aug 16 22:22:08 2020  5261243 all part2Q1C [on time]
+Submission      Sun Aug 16 22:22:37 2020  5261243 all part2Q1C [on time]
 
 Most recent submission:
 -rw-r--r-- z5261243/z5261243 30 2020-08-16 22:22 part2Q1C.txt
@@ -97,7 +100,7 @@ Session: 20T2
 Assignment: part2Q2A  Submission ID: 5261243
 
 
-Current day and time:	Sun Aug 16 22:22:12 2020
+Current day and time:	Sun Aug 16 22:22:41 2020
 No deadline set at present.
 Event           Day and time              Details
 ================================================================================
@@ -125,6 +128,7 @@ Submission      Sun Aug 16 22:09:28 2020  5261243 all part2Q2A [on time]
 Submission      Sun Aug 16 22:10:11 2020  5261243 all part2Q2A [on time]
 Submission      Sun Aug 16 22:10:38 2020  5261243 all part2Q2A [on time]
 Submission      Sun Aug 16 22:22:09 2020  5261243 all part2Q2A [on time]
+Submission      Sun Aug 16 22:22:38 2020  5261243 all part2Q2A [on time]
 
 Most recent submission:
 -rw-r--r-- z5261243/z5261243 30 2020-08-16 22:22 part2Q2A.txt
@@ -137,13 +141,13 @@ classrun: no log file for assignment part2Q2B: no submission recorded
   class: cs2511
 last system error: No such file or directory
 
-Current day and time:	Sun Aug 16 22:22:12 2020
+Current day and time:	Sun Aug 16 22:22:42 2020
 No deadline set at present.
 Session: 20T2
 Assignment: part2Q2C  Submission ID: 5261243
 
 
-Current day and time:	Sun Aug 16 22:22:13 2020
+Current day and time:	Sun Aug 16 22:22:42 2020
 No deadline set at present.
 Event           Day and time              Details
 ================================================================================
@@ -171,6 +175,7 @@ Submission      Sun Aug 16 22:09:29 2020  5261243 all part2Q2C [on time]
 Submission      Sun Aug 16 22:10:12 2020  5261243 all part2Q2C [on time]
 Submission      Sun Aug 16 22:10:39 2020  5261243 all part2Q2C [on time]
 Submission      Sun Aug 16 22:22:10 2020  5261243 all part2Q2C [on time]
+Submission      Sun Aug 16 22:22:39 2020  5261243 all part2Q2C [on time]
 
 Most recent submission:
 -rw-r--r-- z5261243/z5261243 30 2020-08-16 22:22 part2Q2C.txt
@@ -178,7 +183,7 @@ Session: 20T2
 Assignment: part2Q3  Submission ID: 5261243
 
 
-Current day and time:	Sun Aug 16 22:22:13 2020
+Current day and time:	Sun Aug 16 22:22:42 2020
 No deadline set at present.
 Event           Day and time              Details
 ================================================================================
@@ -260,6 +265,7 @@ Submission      Sun Aug 16 22:09:29 2020  5261243 all part2Q3 [on time]
 Submission      Sun Aug 16 22:10:12 2020  5261243 all part2Q3 [on time]
 Submission      Sun Aug 16 22:10:40 2020  5261243 all part2Q3 [on time]
 Submission      Sun Aug 16 22:22:10 2020  5261243 all part2Q3 [on time]
+Submission      Sun Aug 16 22:22:39 2020  5261243 all part2Q3 [on time]
 
 Most recent submission:
 -rw------- z5261243/z5261243 82 2020-08-16 22:22 CarComparator.java
@@ -271,7 +277,7 @@ classrun: no record of any submission for this assignment part3Q1
   stuID: 5261243
   class: cs2511
 
-Current day and time:	Sun Aug 16 22:22:13 2020
+Current day and time:	Sun Aug 16 22:22:43 2020
 No deadline set at present.
 Session: 20T2
 Assignment: part3Q2  Submission ID: 5261243
@@ -281,7 +287,7 @@ classrun: no record of any submission for this assignment part3Q2
   stuID: 5261243
   class: cs2511
 
-Current day and time:	Sun Aug 16 22:22:14 2020
+Current day and time:	Sun Aug 16 22:22:44 2020
 No deadline set at present.
 Session: 20T2
 Assignment: part3Q3  Submission ID: 5261243
@@ -291,5 +297,5 @@ classrun: no record of any submission for this assignment part3Q3
   stuID: 5261243
   class: cs2511
 
-Current day and time:	Sun Aug 16 22:22:14 2020
+Current day and time:	Sun Aug 16 22:22:44 2020
 No deadline set at present.
